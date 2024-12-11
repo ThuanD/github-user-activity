@@ -1,0 +1,7 @@
+[project]
+name = "github-user-activity"
+version = "0.1.0"
+description = "A simple command-line interface (CLI) tool to fetch and display recent GitHub activity for a given username using the GitHub API."
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = []
